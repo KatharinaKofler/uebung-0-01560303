@@ -1,3 +1,5 @@
+//Kofler Katharina 01560303
+
 public class Einstiegsbeispiel {
     public static void main(String[] args) {
         //erwarteter Input: zwei mit Booleans befullte Arrays gleicher Länge z.B. [true true true] und [false false true]
